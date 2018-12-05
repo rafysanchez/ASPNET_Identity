@@ -1,0 +1,6 @@
+D:\Aula\Oauth\DeviMedia-33131\src\UI.Console\bin\Debug\UI.Console.exe.config
+D:\Aula\Oauth\DeviMedia-33131\src\UI.Console\bin\Debug\UI.Console.exe
+D:\Aula\Oauth\DeviMedia-33131\src\UI.Console\bin\Debug\UI.Console.pdb
+D:\Aula\Oauth\DeviMedia-33131\src\UI.Console\obj\Debug\UI.Console.exe
+D:\Aula\Oauth\DeviMedia-33131\src\UI.Console\obj\Debug\UI.Console.pdb
+D:\Aula\Oauth\DeviMedia-33131\src\UI.Console\obj\Debug\UI.Console.csprojResolveAssemblyReference.cache

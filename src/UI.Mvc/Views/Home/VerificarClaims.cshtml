@@ -1,0 +1,12 @@
+﻿@model IEnumerable<string>
+
+@{
+    ViewBag.Title = "VerificarClaims";
+}
+
+<h2>Claims Selecionadas - Somente usuários autenticados</h2>
+
+@foreach(var claim in Model)
+{
+    @claim <br />    
+}

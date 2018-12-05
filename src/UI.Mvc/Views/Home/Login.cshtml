@@ -1,0 +1,13 @@
+﻿
+@{
+    ViewBag.Title = "Login";
+}
+
+@if (User.Identity.IsAuthenticated)
+{
+    <h2>To Logado!!!</h2>
+}else
+{
+    <h2>Não tô logado ainda...</h2>
+}
+
